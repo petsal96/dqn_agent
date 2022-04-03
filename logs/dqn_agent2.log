@@ -1,0 +1,6 @@
+2022-03-26 11:02:27,506 [dqn_agent2_code] INFO: ACTIONS: tensor([132, 198,  79, 253,  30, 308], device='cuda:0')
+2022-03-26 11:02:27,508 [dqn_agent2_code] INFO: AVG Q: tensor([-0.0362, -0.0331, -0.0380, -0.0159, -0.0362, -0.0270], device='cuda:0')
+2022-03-26 11:02:27,508 [dqn_agent2_code] INFO: AVERAGE LOSS: 0.008503331185782897
+2022-03-26 11:02:27,508 [dqn_agent2_code] INFO: AVERAGE REWARD: 0.0
+2022-03-26 11:02:27,508 [dqn_agent2_code] INFO: EXP PROB: 0.9909969999997411
+2022-03-26 11:02:27,923 [dqn_agent2_code] INFO: AVG REWARD: 0.0
